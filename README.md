@@ -25,16 +25,17 @@ Aquí encontrarás **100 ejercicios prácticos**, organizados por nivel y diseñ
 ## 📂 Estructura del Proyecto
 
 📁 100-python-exercises
-├── ejercicio_1.py
-├── ejercicio_2.py
-├── ejercicio_3.py
-├── ...
-├── ejercicio_100.py
-├── soluciones.py
+├── ejercicios/
+│   ├── ejercicio_1.py
+│   ├── ejercicio_2.py
+│   ├── ejercicio_3.py
+│   ├── ...
+│   ├── ejercicio_100.py
+│   └── soluciones.py
 └── README.md
 
-- Cada ejercicio está en un archivo independiente.
-- El archivo **soluciones.py** contiene TODAS las respuestas completas.
+- Todos los ejercicios y el archivo de soluciones están dentro de la carpeta `ejercicios/`.
+- Abre `ejercicios/` para encontrar cada archivo de ejercicio independiente.
 
 ---
 
